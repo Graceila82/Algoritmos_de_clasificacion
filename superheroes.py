@@ -16,7 +16,7 @@
 #    6. Matriz de Confusión (evaluación final)
 # ============================================================
 
-# ── Instalación (descomenta si necesitas instalar) ──────────
+# ── Instalación (si necesitas instalar) ──────────
 # pip install scikit-learn pandas numpy matplotlib seaborn
 
 import numpy as np
